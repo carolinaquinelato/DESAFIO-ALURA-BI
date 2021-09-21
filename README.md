@@ -9,8 +9,10 @@ Esse desafio tem como objetivo estimular o estudo e o desenvolvimento dos alunos
 
 ## <a id="week1">Semana 1: Desafio de Logística (AluraLog)</a>
 
+https://app.powerbi.com/view?r=eyJrIjoiNGU4OWQ1ZDYtY2Y0MC00N2JhLThlMmUtNzAwMzdkZTVhYmExIiwidCI6IjU0YWVlZDRmLWUxZTgtNDVhMy05OTFkLTJmOTcyMDdjMjE3ZiJ9&pageName=ReportSection
+
 Nesse desafio o objetivo era importar a base de dados, fazer os tratamentos e modelagens necessários 
-e em seguida responder as seguintes perguntas de negócio
+e em seguida responder as seguintes perguntas de negócio:
 
 - Visualizar quantas entregas foram feitas no prazo
 
