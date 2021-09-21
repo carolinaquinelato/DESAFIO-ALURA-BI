@@ -1,5 +1,7 @@
 # DESAFIO-ALURA-BI
-Esse desafio tem como objetivo estimular o estudo e o desenvolvimento dos alunos na plataforma do cursos online Alura, na área de Data Science, e também incentivar o uso de ferramentas de visualização de dados como Power BI. Esse repositório contém os Dashboards desenvolvidos para o desafio e também os arquivos utilizados.
+Esse desafio tem como objetivo estimular o estudo e o desenvolvimento dos alunos na plataforma do cursos online Alura, na área de Data Science, e também incentivar o uso de ferramentas de visualização de dados como Power BI. 
+
+Esse repositório contém os Dashboards desenvolvidos para o desafio e também os arquivos utilizados.
 
 <ul>
   <li><a href="#week1">Semana 1: Logística</a></li>
