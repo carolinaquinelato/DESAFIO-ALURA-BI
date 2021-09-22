@@ -19,7 +19,6 @@ Link do Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNGU4OWQ1ZDYtY2Y0MC00N2
 Nesse desafio o objetivo era importar a base de dados, fazer os tratamentos e modelagens necessários 
 e em seguida responder algumas perguntas de negócio para a confecção do Dashboard.
 
-### Ajuste dos dados
 
 ### Criação do Dashboard
 Utilizando liguagem DAX, realizei as seguintes operações:
