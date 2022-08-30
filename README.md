@@ -8,7 +8,7 @@ Esse repositório contém os Dashboards desenvolvidos para o desafio e também o
 
 </ul>
 
-## <a id="week1">Semana 1: Desafio de Logística (AluraLog)</a>
+## <a id="week1">Desafio de Logística (AluraLog)</a>
 
 Link do Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNGU4OWQ1ZDYtY2Y0MC00N2JhLThlMmUtNzAwMzdkZTVhYmExIiwidCI6IjU0YWVlZDRmLWUxZTgtNDVhMy05OTFkLTJmOTcyMDdjMjE3ZiJ9&pageName=ReportSection
 
