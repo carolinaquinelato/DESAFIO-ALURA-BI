@@ -4,9 +4,8 @@ Esse desafio tem como objetivo estimular o estudo e o desenvolvimento dos alunos
 Esse repositório contém os Dashboards desenvolvidos para o desafio e também os arquivos utilizados.
 
 <ul>
-  <li><a href="#week1">Semana 1: Logística</a></li>
-  <li>Semana 2: Marketing</li>
-  <li>Semana 3: Financeiro</li>
+  <li><a href="#week1">Desafio de Logística</a></li>
+
 </ul>
 
 ## <a id="week1">Semana 1: Desafio de Logística (AluraLog)</a>
